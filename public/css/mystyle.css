@@ -1,0 +1,16 @@
+.row{
+    color: yellow;
+}
+.navbar .navbar-header .navbar-brand {
+    color: #3aec05;
+}
+
+.navbar .nav li a{
+    color: #3aec05;
+}
+.navbar .nav li:hover{
+    background-color: #dbe7ff;
+}
+.navbar .nav li a:hover{
+    color: #520200;
+}
