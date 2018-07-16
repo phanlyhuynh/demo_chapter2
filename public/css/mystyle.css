@@ -14,3 +14,13 @@
 .navbar .nav li a:hover{
     color: #520200;
 }
+.container .well .form-horizontal .form-group .btn1{
+    color: yellow;
+}
+.container .well .btn-info{
+    color:#ff2101;
+    background-color: #96e2ff;
+}
+.container .well .form-horizontal .form-group .btn2{
+    color: yellow;
+}
